@@ -1,32 +1,40 @@
 {
-  "version": "v0.0.11",
+  "version": "v0.0.12",
   "data": {
     "faq": [
       {
+        "id": 5,
         "title": "For students interested in getting involved with EHU IT Hub, what opportunities are available, and how can they actively contribute to the unit's mission?",
         "description": "Students eager to join EHU IT Hub can explore various opportunities, such as participating in hands-on projects, gaining practical experience in IT initiatives, and collaborating with experienced peers. They can actively contribute by bringing fresh perspectives, creative ideas, and a passion for innovation, enriching the unit's mission to provide top-notch digital support tailored to the unique needs of the European Humanities University."
       },
       {
+        "id": 4,
         "title": "How do I get on your team?",
         "description": "To join the EHU IT Hub team, you will have to complete a 3-month internship on an internal project and based on its results you will be offered to join either core or support teams (commercial experience is optional - the main thing is your desire to develop! :)"
       },
       {
+        "id": 3,
         "title": "What principles and industry best practices guide EHU IT Hub in delivering projects for the university?",
         "description": "EHU IT Hub is guided by industry best practices and principles in project delivery, incorporating agile project management methodologies. We conduct thorough needs assessments, prioritize transparent communication throughout development, and emphasize user experience. Moreover, our team is committed to staying updated on emerging technologies, continually refining skills, and benefiting from mentorship programs with professionals from EPAM and Capital.com. This ensures our projects align with the highest industry standards, promoting efficiency and quality while seamlessly integrating innovative solutions into the university's digital ecosystem"
       },
       {
+        "id": 2,
         "title": "For students with limited IT background, what resources or support does EHU IT Hub offer to enhance their skills and involvement in digital projects at the university?",
         "description": "In our collaborative environment, students are offered hands-on learning through participation in projects that are close to real-life commercial scenarios. This fosters a supportive environment in which they can develop their skills and actively participate in vibrant digital initiatives at the university. Our team of experienced professionals is eager to share their knowledge with students who have limited IT experience. In the future, we will have the opportunity to share extensive training resources and workshops to further develop these skills so that everyone can excel in the dynamic landscape of digital projects."
       },
       {
+        "id": 1,
         "title": "How does EHU IT Hub stay connected with the evolving needs of the university community to continuously enhance its digital support services?",
         "description": "The EHU IT Hub keeps in touch with the evolving needs of the university community through close collaboration with the EHU administration. Through ongoing research and proactive initiatives, we engage in discussions to understand and address current needs, offering innovative ideas to continually improve the university's digital support services."
       }
     ],
     "openJobs": [
       {
+        "id": 2,
+        "link": "2-manual-aqa-engenier",
         "tags": [
           {
+            "id": 2,
             "name": "QA",
             "color": "#333333",
             "background": "#cccccc"
@@ -38,13 +46,17 @@
         "fullDescription": "<b>Empty description</b>"
       },
       {
+        "id": 1,
+        "link": "1-java-developer",
         "tags": [
           {
+            "id": 1,
             "name": "Java",
             "color": "#333333",
             "background": "#cccccc"
           },
           {
+            "id": 3,
             "name": "Backend",
             "color": "#333333",
             "background": "#cccccc"
@@ -56,8 +68,11 @@
         "fullDescription": "<b>Empty description</b>"
       },
       {
+        "id": 3,
+        "link": "3-ux-ui-designer",
         "tags": [
           {
+            "id": 4,
             "name": "UX/UI",
             "color": "#333333",
             "background": "#cccccc"
@@ -69,8 +84,11 @@
         "fullDescription": "<b>Empty description</b>"
       },
       {
+        "id": 4,
+        "link": "4-fronted-developer",
         "tags": [
           {
+            "id": 5,
             "name": "Frontend",
             "color": "#333333",
             "background": "#cccccc"
@@ -84,16 +102,19 @@
     ],
     "caseStudies": [
       {
+        "id": 2,
         "image": "https://storage.ehuithub.dev/landing/static/img/TimeCat.png",
         "title": "TimeCat EHU",
         "description": "TimeCat EHU - a telegram bot for convenient academic schedule tracking with a high degree of personalisation, alerts and a built-in assistant. Helps to solve the problem of inconvenient schedule output at the university."
       },
       {
+        "id": 3,
         "image": "https://storage.ehuithub.dev/landing/static/img/ChatGuard.png",
         "title": "ChatGuard EHU",
         "description": "ChatGuard EHU - a bot moderator of student chats at the university, ensuring the safety of student communication and protection of confidential information. Ensures that chats remain exclusive to EHU students."
       },
       {
+        "id": 1,
         "image": "https://storage.ehuithub.dev/landing/static/img/EHU_Support_3.png",
         "title": "EHU Support",
         "description": "EHU Support - a complex solution for the communication department, including a Telegram bot with registration information and the ability to contact managers. Managers can track the activity of applicants through the website with detailed statistics, communicate with applicants and edit the content of the bot. Currently, the project is being redesigned so that the EHU administration can provide advice not only to applicants, but to all students."
@@ -101,16 +122,19 @@
     ],
     "technologies": [
       {
+        "id": 1,
         "icon": "graph",
         "title": "Frontend Technologies",
         "description": "In the Advanced Frontend Development section at EHU IT Hub, students gain more than just knowledge - they experience hands-on learning through engaging projects. Our focus includes:\r\n- JS/TS, Web-components\r\n- React, Angular, Vue,\r\n- Vite, Webpack\r\n- Storybook"
       },
       {
+        "id": 2,
         "icon": "graph",
         "title": "Backend Technologies",
         "description": "In the Backend Technologies section at EHU IT Hub, we introduce students to a wide range of backend technologies in a hands-on way. Here are some key areas we cover:\r\n- Java (Spring Framework), \r\n- Python (Django)\r\n- API Development (REST and other)\r\n- ORM, Postgres\r\n- SSR\r\n- Cloud services (AWS, Minio)"
       },
       {
+        "id": 3,
         "icon": "graph",
         "title": "DevOps Practices",
         "description": "In our DevOps Practices section, we utilize a robust DevOps tech stack to empower our students with industry-relevant skills. Our stack includes:\r\n- Gitlab Ci/CD \r\n- Prometheus and Grafana for monitoring\r\n- Docker\r\n- Kubernetes"
