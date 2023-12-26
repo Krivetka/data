@@ -1,26 +1,26 @@
 {
-  "version": "v0.0.8",
+  "version": "v0.0.11",
   "data": {
     "faq": [
       {
-        "title": "Do you build software in compliance with the GDPR, HIPAA and other standards?",
-        "description": "LOLOLO"
+        "title": "For students interested in getting involved with EHU IT Hub, what opportunities are available, and how can they actively contribute to the unit's mission?",
+        "description": "Students eager to join EHU IT Hub can explore various opportunities, such as participating in hands-on projects, gaining practical experience in IT initiatives, and collaborating with experienced peers. They can actively contribute by bringing fresh perspectives, creative ideas, and a passion for innovation, enriching the unit's mission to provide top-notch digital support tailored to the unique needs of the European Humanities University."
       },
       {
-        "title": "Do you build software in compliance with the GDPR, HIPAA and other standards?",
-        "description": "The EHU IT Hub is a cutting-edge technological nexus committed to fostering innovation, collaboration, and excellence in the realm of information technology. Serving as a melting pot for technophiles, developers, and industry professionals, it paves the way for groundbreaking advancements and solutions."
+        "title": "How do I get on your team?",
+        "description": "To join the EHU IT Hub team, you will have to complete a 3-month internship on an internal project and based on its results you will be offered to join either core or support teams (commercial experience is optional - the main thing is your desire to develop! :)"
       },
       {
-        "title": "Do you build software in compliance with the GDPR, HIPAA and other standards?",
-        "description": "KEKEKEKE"
+        "title": "What principles and industry best practices guide EHU IT Hub in delivering projects for the university?",
+        "description": "EHU IT Hub is guided by industry best practices and principles in project delivery, incorporating agile project management methodologies. We conduct thorough needs assessments, prioritize transparent communication throughout development, and emphasize user experience. Moreover, our team is committed to staying updated on emerging technologies, continually refining skills, and benefiting from mentorship programs with professionals from EPAM and Capital.com. This ensures our projects align with the highest industry standards, promoting efficiency and quality while seamlessly integrating innovative solutions into the university's digital ecosystem"
       },
       {
-        "title": "Do you build software in compliance with the GDPR, HIPAA and other standards?",
-        "description": "KJHGOJHGJLHGLJHGHJLG"
+        "title": "For students with limited IT background, what resources or support does EHU IT Hub offer to enhance their skills and involvement in digital projects at the university?",
+        "description": "In our collaborative environment, students are offered hands-on learning through participation in projects that are close to real-life commercial scenarios. This fosters a supportive environment in which they can develop their skills and actively participate in vibrant digital initiatives at the university. Our team of experienced professionals is eager to share their knowledge with students who have limited IT experience. In the future, we will have the opportunity to share extensive training resources and workshops to further develop these skills so that everyone can excel in the dynamic landscape of digital projects."
       },
       {
-        "title": "Do you build software in compliance with the GDPR, HIPAA and other standards?",
-        "description": "IUTOIUYIKJYPIUYPIUYPIUYPIYUI HKJHKJ"
+        "title": "How does EHU IT Hub stay connected with the evolving needs of the university community to continuously enhance its digital support services?",
+        "description": "The EHU IT Hub keeps in touch with the evolving needs of the university community through close collaboration with the EHU administration. Through ongoing research and proactive initiatives, we engage in discussions to understand and address current needs, offering innovative ideas to continually improve the university's digital support services."
       }
     ],
     "openJobs": [
@@ -32,9 +32,10 @@
             "background": "#cccccc"
           }
         ],
-        "title": "QA Engenier",
+        "title": "Manual/AQA Engenier",
         "subtitle": "QA Methodologies, Test Case Execution, Bug Reporting",
-        "description": "Join our team as a Junior QA Engineer! Engage in test plan development, execute test cases, report bugs, and collaborate with cross-functional teams. Ideal for detail-oriented problem solvers."
+        "description": "We are seeking: A meticulous and dedicated Manual/AQA Tester to enhance our software testing team. In this role, you will be responsible for ensuring the quality and reliability of our software products. Your focus will include both manual testing and automated quality assurance, contributing to the overall user experience and product integrity.\r\n\r\nApply, if you have:\r\n- Сommercial experience or certificate of completion of QA courses.\r\n- Knowledge of QA basics and the specifics of mobile application testing.\r\n- Good level of English.\r\n- Responsibility and ability to work as a Team player.\r\n- Proactivity and willing to learn.\r\n- Experience or strong interest in Automated Quality Assurance (AQA) methods and tools.\r\n- Familiarity with automation frameworks and scripting languages for testing purposes.\r\n- Understanding of the principles of test automation and continuous integration/continuous delivery (CI/CD) processes.\r\n\r\nIt’s OK if you’re a student or attended a specific course and have an idea of:\r\n- How to write test documentation.\r\n- What is a Defect Lifecycle.\r\n- SQL and Web technologies.\r\n\r\nWe offer you:\r\n- 3 months of internship with performance-based opportunity to join us! \r\n- Opportunity to boost your skills on real projects.\r\n- Work on real university projects within our team.\r\n- Knowledge sharing and mentorship from our best engineers.\r\nAbility to start your career in and enhance your skills!",
+        "fullDescription": "<b>Empty description</b>"
       },
       {
         "tags": [
@@ -51,7 +52,34 @@
         ],
         "title": "Java Developer",
         "subtitle": "Java, Spring Framework, REST, Postgres, Maven/Gradle",
-        "description": "Seeking a Java Developer to build and maintain robust applications. Involves working with Spring, RESTful services, and database management."
+        "description": "We are seeking: A skilled Java Developer to join our dynamic software development team. In this role, you will be responsible for developing high-quality, efficient, and scalable Java applications. You will collaborate closely with other team members to design, develop, and maintain various software solutions that meet our business needs.\r\n\r\nApply, if you have:\r\n- Commercial experience in Java programming is desirable, but not mandatory.\r\n- Proficiency in Java programming with a solid understanding of object-oriented design principles.\r\n- Experience with Spring Framework and building RESTful services.\r\n- Strong knowledge of database management and SQL.\r\n- Familiarity with Agile methodologies and version control systems (e.g., Git).\r\n- Excellent problem-solving skills and ability to work in a team environment.\r\n- Good communication skills and proficiency in English.\r\n- A Bachelor's degree in Computer Science, Engineering, or a related field, or currently studying in these fields.\r\n\r\nIt’s OK if you’re a student or attended a specific course and have an idea of:\r\n- Are a recent graduate with hands-on experience in Java development through internships, -- projects, or coursework.\r\n- Have basic knowledge of front-end technologies (like JavaScript, HTML, and CSS).\r\n- Understand the principles of software development lifecycle (SDLC) and DevOps practices.\r\n\r\nWe offer you:\r\n- 3 months of internship with performance-based opportunity to join us! \r\n- Opportunity to boost your skills on real projects.\r\n- Work on real university projects within our team.\r\n- Knowledge sharing and mentorship from our best engineers.\r\nAbility to start your career in and enhance your skills!",
+        "fullDescription": "<b>Empty description</b>"
+      },
+      {
+        "tags": [
+          {
+            "name": "UX/UI",
+            "color": "#333333",
+            "background": "#cccccc"
+          }
+        ],
+        "title": "UX/UI Designer",
+        "subtitle": "User Interface Design, User Experience, Adobe Suite, Sketch, Prototyping, Wireframing",
+        "description": "We are seeking: A creative and detail-oriented UX/UI Designer to join our team. In this role, you will be responsible for designing intuitive and user-friendly interfaces for our digital products, ensuring a seamless user experience.\r\n\r\nApply, if you have:\r\n- Commercial experience in UX/UI design is desirable, but not mandatory.\r\n- A strong portfolio showcasing your UX/UI design skills.\r\n- Proficiency in design tools such as Adobe Creative Suite, Sketch, Figma, or similar.\r\n- An understanding of user-centered design principles and best practices.\r\n- Experience in creating wireframes, user flows, process flows, and site maps.\r\n- Ability to collaborate closely with developers, product managers, and other team members.\r\n- Excellent communication and presentation skills.\r\n- A Bachelor's degree in Design, Human-Computer Interaction, or a related field, or currently studying in these areas.\r\n\r\nIt’s OK if you’re a student or attended a specific course and have an idea of:\r\n- Are a recent graduate or have relevant project experience from internships or coursework.\r\n- Have a basic understanding of front-end development technologies (HTML, CSS, JavaScript).\r\n\r\nWe offer you:\r\n- 3 months of internship with performance-based opportunity to join us! \r\n- Opportunity to boost your skills on real projects.\r\n- Work on real university projects within our team.\r\n- Knowledge sharing and mentorship from our best engineers.\r\nAbility to start your career in and enhance your skills!",
+        "fullDescription": "<b>Empty description</b>"
+      },
+      {
+        "tags": [
+          {
+            "name": "Frontend",
+            "color": "#333333",
+            "background": "#cccccc"
+          }
+        ],
+        "title": "Fronted Developer",
+        "subtitle": "HTML, CSS, JS/TS, React/Angular/Vue, Responsive Design, Web Performance, Version Control (Git)",
+        "description": "We are seeking: An innovative Frontend Developer to be a part of our creative technology team. In this role, you will be instrumental in building engaging and interactive user interfaces for our digital products. Your expertise in modern frontend technologies will contribute significantly to providing our users with an exceptional and seamless online experience.\r\n\r\nApply if you have: \r\n- Commercial experience in frontend development is desirable, but not mandatory.\r\n- Proficiency in HTML, CSS, JavaScript/TypeScript, and modern frontend frameworks/libraries like React, Angular, or Vue.js.\r\n- Understanding of responsive and adaptive design principles.\r\n- Ability to translate design wireframes into high-quality code.\r\n- Familiarity with version control systems, such as Git.\r\n- Excellent problem-solving skills and a keen eye for aesthetics and UX design.\r\n- A Bachelor's degree in Computer Science, Design, or a related field, or currently studying in these areas.\r\n\r\nIt’s OK if you’re a student or attended a specific course and have an idea of:\r\n- Are a recent graduate or have relevant project experience from internships or coursework.\r\n- Have foundational knowledge of frontend technologies and are eager to learn more in a professional setting.\r\n\r\nWe offer you:\r\n- 3 months of internship with performance-based opportunity to join us! \r\n- Opportunity to boost your skills on real projects.\r\n- Work on real university projects within our team.\r\n- Knowledge sharing and mentorship from our best engineers.\r\nAbility to start your career in and enhance your skills!",
+        "fullDescription": "<b>Empty description</b>"
       }
     ],
     "caseStudies": [
@@ -100,11 +128,11 @@
       "footer": {
         "links": {
           "terms": {
-            "link": "#",
+            "link": "https://en.ehu.lt/acknowledgement-and-terms-of-use/",
             "label": "Terms and conditions"
           },
           "policy": {
-            "link": "#",
+            "link": "https://ru.ehu.lt/wp-content/uploads/2019/04/Bendrasis-asmens-duomenu-reglamentas_ENG.pdf",
             "label": "Privacy Policy"
           }
         },
@@ -122,7 +150,7 @@
         "tab": {
           "jobs": "careers",
           "about": "about",
-          "caseStudies": "case studies"
+          "caseStudies": "our projects"
         },
         "theme": "Night mode",
         "contactUs": "contact us"
@@ -146,6 +174,10 @@
       "caseStudies": {
         "action": "see all projects",
         "heading": "our projects"
+      },
+      "contactForm": {
+        "email": "d.varshaver@gmail.com",
+        "phone": "+370 674 57 560"
       },
       "technologiesUsed": {
         "action": "contact us!",
